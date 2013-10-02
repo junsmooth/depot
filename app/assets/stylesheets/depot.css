@@ -8,7 +8,9 @@
         background-color: #f0f0f0;
         font: bold smaller sans-serif;
 }
-
+#store .entry form,#store .entry form div{
+	display:inline;
+}
 
 #store h1 {
         font:  150% sans-serif;
